@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1766605298283,
+      "tag": "0000_magenta_lady_vermin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1766605378494,
+      "tag": "0001_special_runaways",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1767629070058,
+      "tag": "0002_dark_millenium_guard",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1769132121716,
+      "tag": "0003_nebulous_xorn",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1770493172047,
+      "tag": "0004_skinny_clint_barton",
+      "breakpoints": true
+    }
+  ]
+}
